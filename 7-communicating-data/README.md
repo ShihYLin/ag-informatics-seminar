@@ -59,7 +59,9 @@ _For each resource provided, create a <1 paragraph summary.]_
 
 2. Introduction to Data Visualization Webinar
 
-    Data visualization is all about insight (and always remember to backup the original file). The insights can lead to an observation over time, a better understanding
+    Data visualization is all about insight (and always remember to backup the original file). The insights can lead to an observation over time, a better understanding of your data (eg. geospatial data), a way to help decision making, or an analysis of data. There are different kinds of data visualization, biovisualization, information visualization, geographic visualization, and scientific visualization. There are some questions that you may need to consider when you want to visualize your data. First, what does the data looks like? Second, What needs to be communicate? Third, What are you interested in utilizing the resulting visualization for? Fourth, What has been done before?
+
+3.
 
 ## Summary of Key Takeaways from the Materials
 
@@ -67,7 +69,8 @@ _4-5 key takeaways, a few sentences to one paragraph each_
 
 1. Data visualization is not only a pretty picture, but it's the purpose of visualizing insight.
 2. Avoid yellow and distracting colors in background, and avoid for color blindness (eg. green and red).
-3.
+3. Three key points for data vis : you, reader, and your data.
+4. Data visualization is a process that you may have to redo several times to make sure the outcome can deliver the right concept and emphasis the key points.
 
 ## Discussion Questions
 
