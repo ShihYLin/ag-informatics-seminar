@@ -53,6 +53,12 @@ Data visualization is not only an important way to communicate data to others, b
 
 _For each resource provided, create a <1 paragraph summary.]_
 
+1. The Art of Data Visualization
+
+    Three things you have to inform your design always: The first, you as a designer. What you have to say, and what you want to communicate? The second, the reader. They may not have any idea about your data, and may have their own bias or assumptions. The third one is the data. What it has to say and how that informs the truth? A successful infographic should be able to communicate a complicated data into a way that many people can understand.
+
+2.
+
 ## Summary of Key Takeaways from the Materials
 
 _4-5 key takeways, a few sentences to one paragraph each_
