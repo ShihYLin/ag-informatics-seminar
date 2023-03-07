@@ -42,12 +42,12 @@ Provide **1 page** overview of the different ways in which **you** will need to 
 
 # Moderator's Discussion Brief
 
-Author: [Shih-Yun Lin (Gaby)]
-GitHub: [ShihYLin]
+Author: [ Shih-Yun Lin (Gaby) ]
+GitHub: [ ShihYLin ]
 
 ## Overview of the topic
 
-_insert 1-2 paragraphs here_
+Data visualization is not only an important way to communicate data to others, but also provide an insight for us to understand our own data. It is hard to find out the pattern of a large group of data by looking at it, but with the help of data visualization, we can get the insights within few seconds. Insights can lead to discover the visualizing patterns overtime (eg. time series data) and spotting difference,help to make decisions, analyze data, explain the spatial relationships, and tell a story of the data. Data visualization is a process that from obtaining data, parse and provide structure, filter the data of interests, mine the data patterns, represent with a visual model, to refine the visual presentation.
 
 ## Short Synopsis of Readings
 
@@ -57,13 +57,23 @@ _For each resource provided, create a <1 paragraph summary.]_
 
 _4-5 key takeways, a few sentences to one paragraph each_
 
+1. Data visualization is not only a pretty picture, but it's the purpose of visualizing insight.
+2.
+
 ## Discussion Questions
 
 _>4-5 questions_
 
 ## Further Resources
 
-_>2-3 resources you'd like to share_
+https://www.tableau.com/learn/articles/best-beautiful-data-visualization-examples
+https://www.behance.net/gallery/106936329/Plastic-Waste-Pollution-data-visualisation
+
+United States Census Bureau Infographics & Visualizations
+https://www.census.gov/library/visualizations.html
+
+Mapping Housing Cost Ratios in the United States: 2017-2021
+https://www.census.gov/library/visualizations/interactive/mapping-housing-cost-ratios-in-united-states-2017-2021.html
 
 # Discussion Notes and Feedback
 
