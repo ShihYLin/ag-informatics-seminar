@@ -57,29 +57,49 @@ _For each resource provided, create a <1 paragraph summary.]_
 
     Three things you have to inform your design always: The first, you as a designer. What you have to say, and what you want to communicate? The second, the reader. They may not have any idea about your data, and may have their own bias or assumptions. The third one is the data. What it has to say and how that informs the truth? A successful infographic should be able to communicate a complicated data into a way that many people can understand.
 
-2.
+2. Introduction to Data Visualization Webinar
+
+    Data visualization is all about insight (and always remember to backup the original file). The insights can lead to an observation over time, a better understanding
 
 ## Summary of Key Takeaways from the Materials
 
-_4-5 key takeways, a few sentences to one paragraph each_
+_4-5 key takeaways, a few sentences to one paragraph each_
 
 1. Data visualization is not only a pretty picture, but it's the purpose of visualizing insight.
-2.
+2. Avoid yellow and distracting colors in background, and avoid for color blindness (eg. green and red).
+3.
 
 ## Discussion Questions
 
 _>4-5 questions_
 
+1. What kind of tool or software you use for visualizing your data?
+2. What kind of visualization you may need for your research data?
+3. Which data visualization work is the most impressive that you have ever seen?
+4.
+
 ## Further Resources
 
+The data visualization catalogue:
+https://datavizcatalogue.com/
+
+Beautiful data visualization examples:
 https://www.tableau.com/learn/articles/best-beautiful-data-visualization-examples
+
+A visualization of the characters' relationships in Game of Thrones:
+https://venngage.com/blog/game-of-thrones-infographic/
+
+A data visualization for plastic waste pollution:
 https://www.behance.net/gallery/106936329/Plastic-Waste-Pollution-data-visualisation
 
-United States Census Bureau Infographics & Visualizations
+United States Census Bureau Infographic & Visualizations:
 https://www.census.gov/library/visualizations.html
 
-Mapping Housing Cost Ratios in the United States: 2017-2021
+Mapping Housing Cost Ratios in the United States: 2017-2021:
 https://www.census.gov/library/visualizations/interactive/mapping-housing-cost-ratios-in-united-states-2017-2021.html
+
+How to pick the right chart type?
+https://eazybi.com/blog/data-visualization-and-chart-types
 
 # Discussion Notes and Feedback
 
