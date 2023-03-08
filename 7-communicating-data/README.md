@@ -51,8 +51,6 @@ Data visualization is not only an important way to communicate data to others, b
 
 ## Short Synopsis of Readings
 
-_For each resource provided, create a <1 paragraph summary.]_
-
 1. The Art of Data Visualization
 
     Three things you have to inform your design always: The first, you as a designer. What you have to say, and what you want to communicate? The second, the reader. They may not have any idea about your data, and may have their own bias or assumptions. The third one is the data. What it has to say and how that informs the truth? A successful infographic should be able to communicate a complicated data into a way that many people can understand.
@@ -61,11 +59,15 @@ _For each resource provided, create a <1 paragraph summary.]_
 
     Data visualization is all about insight (and always remember to backup the original file). The insights can lead to an observation over time, a better understanding of your data (eg. geospatial data), a way to help decision making, or an analysis of data. There are different kinds of data visualization, biovisualization, information visualization, geographic visualization, and scientific visualization. There are some questions that you may need to consider when you want to visualize your data. First, what does the data looks like? Second, What needs to be communicate? Third, What are you interested in utilizing the resulting visualization for? Fourth, What has been done before?
 
-3.
+3. Best practice data visualization guidelines
+
+    General principles: simplify(reduce number of variables and words), familiarity(use common or familiar graph type, use common color coding), visual attraction(is the visual focus on the key message? & tailor to the audience or concept(consider viewers' preconceived ideas, prior knowledge, cultural conventions, familiarities, possible biases & do you need to include an explanation? & get feedback from the target audience))
+
+4. The art of web design
+
+    Understand your readers' needs! The color of background and way to layout the text do influence users' feelings and experience. Try to create features to fit the target audience's needs.
 
 ## Summary of Key Takeaways from the Materials
-
-_4-5 key takeaways, a few sentences to one paragraph each_
 
 1. Data visualization is not only a pretty picture, but it's the purpose of visualizing insight.
 2. Avoid yellow and distracting colors in background, and avoid for color blindness (eg. green and red).
@@ -74,17 +76,21 @@ _4-5 key takeaways, a few sentences to one paragraph each_
 
 ## Discussion Questions
 
-_>4-5 questions_
-
 1. What kind of tool or software you use for visualizing your data?
 2. What kind of visualization you may need for your research data?
 3. Which data visualization work is the most impressive that you have ever seen?
-4.
+4. What is equity awareness in data visualization?
 
 ## Further Resources
 
+Cholera outbreak and John Snow:
+https://www.arcgis.com/apps/mapviewer/index.html?webmap=75237a7d4b7547c1b3addf9ffcd380fa
+
 The data visualization catalogue:
 https://datavizcatalogue.com/
+
+Endangered animals:
+https://www.tableau.com/blog/july-viz-roundup-40813
 
 Beautiful data visualization examples:
 https://www.tableau.com/learn/articles/best-beautiful-data-visualization-examples
@@ -103,6 +109,9 @@ https://www.census.gov/library/visualizations/interactive/mapping-housing-cost-r
 
 How to pick the right chart type?
 https://eazybi.com/blog/data-visualization-and-chart-types
+
+Do no harm guide to data visualization:
+https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization
 
 # Discussion Notes and Feedback
 
