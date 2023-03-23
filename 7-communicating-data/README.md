@@ -115,6 +115,72 @@ https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awar
 
 # Discussion Notes and Feedback
 
-Note taker: [name]
+Note taker: Cheyenne
+# Visualization for presenting data and communication
+Visualization of data has been done for year example given was John snows data visualization for determining sickness in London.  
+From picking a language to use for Visual data representation – some are located in model two of last semesters fall course has extra visual language.
+
+# Exercise
+Data is given in an excel sheet with multiple columns. 
+
+The task is to take the data and make it visualization or chart of the data for presenting and communicate data. 
+
+Funny notes: 
+
+Megan – why is China and Asia listed differently.  Animals over the continent with color coating the increasing the decreasing and the stable 
+
+Ankita – starting the population in boxes labeling  
+
+Kanru – maps with animals listed with increasing or decreasing arrows over continent.  
+
+Reflecting  
+
+Different ways to visually show the same amount of data.  
+
+Noted: that  
+
+Library offer section about data and presentations for data visualization.  
+
+Showed a visual of what the data could look like  
+
+Critic the map and try to understand and communicate the data.  
+
+Can feel overwhelming but before it was explained not as functional good  as you want them to be  
+
+Arguing is it a good graphic and visual- stimulate a conversation.  
+
+# Resources: 
+
+The best data visualization examples  
+
+The different ways for expressing there data  
+
+The number of new ways to present the information from other areas  
+
+A network of interaction  
+
+Game of thrones Web of Betrayls  
+
+Style guide  
+
+Sticking and keeping it simple  
+
+In a paper keeping it to the point in making sure that you get you point across and communicating it. 
+
+Sankey graphic  
+
+ Usually start with small and then goes big  
+
+Data is beautiful on read it  
+
+How to pick the right graohic  
+
+A pipeline to help decide what chart is the best chart for you and what you might need. 
+
+ 
+
+# Takeaways. 
+
+Be considerate of the people you are submitting and presenting to. Make sure you are no categorizing everything if it is not needing to be. Neat lessons in bias  
 
 [notes from the class discussion]
